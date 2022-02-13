@@ -1,0 +1,47 @@
+body{
+/* background-image: url(./image/background.jpeg); */
+background-color: burlywood;
+text-align: left;
+justify-content: center;
+display: contents;
+padding-left: 30px;
+
+
+}
+ul{
+    display: flex;
+    list-style: none;
+    text-align: center;
+    background-color: brown;
+    padding-left: 300px;
+
+}
+li{
+    padding-left: 20px;
+    color: blue;
+    font-size: 20px;
+    text-align: right;
+    text-align: center;
+}
+img{
+    display: block;
+    padding-right: 100%;
+}
+h1{
+   padding-left: 2px;
+   text-decoration: solid;
+   text-decoration-color: aqua;
+}
+h2{
+    padding-left: 2px; 
+    text-decoration: solid;
+    text-decoration-color: aqua;  
+}
+.p{
+    padding-left: 200px; 
+   text-align: center;
+   text-decoration: solid;
+   text-decoration-color: aqua;  
+   font-style: italic;
+
+}
